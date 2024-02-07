@@ -2,9 +2,9 @@
 # networkSecurityScan.py #
 # Author: Rashed Al Fuhed #
 # Date: 10/01/2023 #
+####################################
 
 #### Port Scanner using Socket
-
 from socket import *
 import time
 startTime = time.time()
