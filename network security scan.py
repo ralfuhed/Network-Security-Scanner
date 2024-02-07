@@ -1,5 +1,7 @@
-           ####################################
-                # Python Code #
+####################################
+# Python Code #
+# Author: Rashed Al Fuhed #
+# Date: 10/01/2023 #
 
 #### Port Scanner using Socket
 
