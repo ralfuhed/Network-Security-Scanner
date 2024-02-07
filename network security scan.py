@@ -1,5 +1,5 @@
 ####################################
-# Python Code #
+# networkSecurityScan.py #
 # Author: Rashed Al Fuhed #
 # Date: 10/01/2023 #
 
